@@ -1,0 +1,32 @@
+/* CSS declarations go here */
+
+#list_title_input {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+
+#item_title_input {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+/*
+#list-title {
+    font-size: 80px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+#item-title {
+    font-size: 80px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+ion-item {
+    line-height: 100px;
+}
+*/
+#accomplished #list-title {
+    text-decoration: line-through;
+}
